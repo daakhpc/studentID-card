@@ -1,0 +1,5 @@
+{
+  "name": "Student ID Card Generator",
+  "description": "A web application to create and customize beautiful student ID cards. Users can input their details, upload a photo, and download the final ID card.",
+  "requestFramePermissions": []
+}
